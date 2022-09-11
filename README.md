@@ -1,4 +1,4 @@
-traP & Create
+**traP & Create**
 
 - 👋 Hi, I’m @Luftalian
 - 👀 I’m interested in ...
