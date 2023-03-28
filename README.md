@@ -1,5 +1,10 @@
-**traP & Create**
+## Work
+### https://writersapp.trap.games
 
+## [**traP**](https://github.com/traPtitech)
+[booQ](https://github.com/traPtitech/booQ)担当
+
+------
 - 👋 Hi, I’m @Luftalian
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
