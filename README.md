@@ -9,7 +9,7 @@
 ## **CREATE in Tokyo Tech** https://github.com/CREATE-ROCKET
 - ESP32 Library (2023.3 - Today)
   - https://github.com/CREATE-ROCKET/Avi_ESP_Libs
-  - Old one (now private) (2022.? - 2023.3)
+  - Old one (2022.? - 2023.3) (now private)
     - https://github.com/Luftalian/Avi_ESP32_lib
 - [Avi-67](https://github.com/Avi-67) (2023.2 - 2023.5)
   - Template for Avi-67 Boards' softwares (2023.2.15 - 2023.2.15)
