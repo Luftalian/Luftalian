@@ -23,6 +23,10 @@
     - https://github.com/Avi-73/Avi_73J_template
   - Real-Time Data Transmission Board's software (2023.5 - Today)
     - https://github.com/Avi-73/Avi_73J_RtdBoard
+------
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luftalian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Luftalian&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luftalian&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Reading Log (2022.4 - Today)
 #### Linux
