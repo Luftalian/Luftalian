@@ -4,13 +4,17 @@
   - Frontend https://github.com/Luftalian/writers_app-UI
 
 ## **traP in Tokyo Tech** https://github.com/traPtitech
-- [booQ](https://github.com/traPtitech/booQ) (2023.1 - Today)
+- [booQ](https://github.com/traPtitech/booQ) (2023.1 - 2023.7)
+- [knoQ](https://github.com/traPtitech/knoQ) (2023.7 - Today)
 
 ## **CREATE in Tokyo Tech** https://github.com/CREATE-ROCKET
 - ESP32 Library (2023.3 - Today)
   - https://github.com/CREATE-ROCKET/Avi_ESP_Libs
   - Old one (2022.? - 2023.3) (now private)
     - https://github.com/Luftalian/Avi_ESP32_lib
+- Education ( - Today) (now private)
+  - Education for new students
+  - Teaching about what is Git & GitHub, how to use GitHub, and how to use sensors such as accelerometers, pressure meters, and SPI Flash.
 - [Avi-67](https://github.com/Avi-67) (2023.2 - 2023.5)
   - Template for Avi-67 Boards' softwares (2023.2.15 - 2023.2.15)
     - https://github.com/Avi-67/Avi_67J_template
