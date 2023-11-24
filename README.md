@@ -2,6 +2,8 @@
 - https://writersapp.trap.games
   - Backend https://github.com/Luftalian/writers_app
   - Frontend https://github.com/Luftalian/writers_app-UI
+ 
+- https://github.com/CREATE-ROCKET/GroundSoftware
 
 ## **traP in Tokyo Tech** https://github.com/traPtitech
 - [booQ](https://github.com/traPtitech/booQ) (2023.1 - 2023.7)
