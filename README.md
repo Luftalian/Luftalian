@@ -1,7 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Luftalian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Luftalian&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Luftalian&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luftalian&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+![github stats](./stats.svg)
+![Top Langs](./top-langs.svg)
 
 ---
 
